@@ -1,0 +1,10 @@
+body{
+    background: linear-gradient(to right, rgba(11, 68, 181, 0.687), rgb(0, 255, 229))
+}
+.display-1
+{
+    font-size: 25vh;
+    margin-top: 35vh;
+    text-align: center;
+    color: white;
+}
